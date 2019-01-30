@@ -50,3 +50,15 @@ h1, h2, h3, h4 {
 .post h2 a, .post h2 a:visited {
     color: #000000;
 }
+.sort{
+    position: relative;
+    left:1290px ;
+    top:10px;
+    font-size: 10pt;
+}
+.he{
+    position: relative;
+    left:1150px ;
+    top:50px;
+    font-size: 15pt;
+}
